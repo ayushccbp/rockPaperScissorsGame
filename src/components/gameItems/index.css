@@ -1,0 +1,27 @@
+.game-option {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.game-option-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.game-option-name {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin: 0px;
+  margin-bottom: 10px;
+}
+
+.game-option-image {
+  width: 150px;
+}

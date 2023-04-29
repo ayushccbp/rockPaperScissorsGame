@@ -1,0 +1,32 @@
+.rules-button {
+  border: none;
+  border-radius: 10px;
+  font-family: 'Bree serif';
+  padding: 10px 20px 10px 20px;
+  align-self: flex-end;
+  cursor: pointer;
+}
+
+.popup-container {
+  width: 90%;
+  height: 50vh;
+  align-self: flex-end;
+}
+
+.rules-image {
+  width: 80%;
+  align-self: center;
+  padding-bottom: 20px;
+}
+
+.popup-image-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.close-icon-button {
+  border: none;
+  cursor: pointer;
+  align-self: flex-end;
+}
